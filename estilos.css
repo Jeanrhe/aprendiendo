@@ -1,0 +1,18 @@
+p 	{
+	color:#ff0066;
+	font-family: Arial;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 22px; /*Tamaño de la letra*/
+	text-align: center;	/*Alineamos texto*/
+	}
+a 	{
+	color:blue;
+	}
+
+body{
+		background-image:url(imagenes/simpson2.jpg); /*Elegimos como fondo de pantalla una imagen*/
+		background-repeat: no-repeat; /*La imagen no repite*/
+		background-size: cover; /*La imagen ocupa todo el tamaño de pantalla*/
+
+	}
